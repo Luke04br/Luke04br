@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i'm Lucas 👋
 
 <!--
 **Luke04br/Luke04br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
